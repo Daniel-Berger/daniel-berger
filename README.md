@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Daniel Berger  
 
-I'm an iOS developer and founder of **Pomona App Studio**, where I design and build apps like **Book Bee**, **CardValue Pro**, and **SoundFlow** — combining AI, design, and Swift excellence.
+I'm an iOS developer and founder of **Pomona App Studio**, where I design and build apps like **Book Bee**, **CardValue Pro**, and **SoundFlow**, and many other apps — combining AI, design, and Swift excellence.
 
 ---
 
