@@ -35,4 +35,4 @@ Swift • SwiftUI • Combine • UIKit • Core ML • Vision • Firebase • 
 
 ---
 
-⭐️ *“Design beautifully. Build boldly. Ship consistently.”*
+⭐️ *“This app will change the world...”*
